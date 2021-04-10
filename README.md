@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-# This my public page
-
-The website is available here: https://ziaeemehr.github.io/
-
-<a href="https://www.researchgate.net/profile/Abolfazl_Ziaeemehr3"><img src="https://ziaeemehr.github.io/images/RG.png" width="25"></a>
-
 
 ##### My GitHub Stats
 
