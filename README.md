@@ -19,6 +19,8 @@ Repositories of my papers:
 - [C++](https://github.com/Ziaeemehr/cpp_workshop)
 - [Julia](https://github.com/Ziaeemehr/workshop_julia)
 
+- [Brian2](https://github.com/Ziaeemehr/workshop_brian)
+- [NEST simulator](https://github.com/Ziaeemehr/itng_nest)
 <!--
 **Ziaeemehr/ziaeemehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
