@@ -21,6 +21,7 @@ Repositories of my papers:
 
 - [Brian2](https://github.com/Ziaeemehr/workshop_brian)
 - [NEST simulator](https://github.com/Ziaeemehr/itng_nest)
+- [Kuramoto simulator](https://github.com/Ziaeemehr/Kuramoto_model)
 <!--
 **Ziaeemehr/ziaeemehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
