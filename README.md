@@ -12,6 +12,13 @@ Repositories of my papers:
 - [Scientific Reports 2020](https://github.com/Ziaeemehr/SReport2020)
 - [jitcsim](https://github.com/Ziaeemehr/JITCSIM) : Simulation of complex network dynamics with Ordinary/Delay/Stochastic differential equations (just-in-time compilation).
 
+
+
+#### Workshop repositories:
+- [Python](https://github.com/Ziaeemehr/workshop_scripting)
+- [C++](https://github.com/Ziaeemehr/cpp_workshop)
+- [Julia](https://github.com/Ziaeemehr/workshop_julia)
+
 <!--
 **Ziaeemehr/ziaeemehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
