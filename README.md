@@ -11,6 +11,7 @@ Repositories of my papers:
 - [Neural Network 2020](https://github.com/ITNG/ziaeeNN2020)
 - [Scientific Reports 2020](https://github.com/Ziaeemehr/SReport2020)
 - [jitcsim](https://github.com/Ziaeemehr/JITCSIM) : Simulation of complex network dynamics with Ordinary/Delay/Stochastic differential equations (just-in-time compilation).
+- [mndynamics](https://github.com/Ziaeemehr/mndynamics) Stanalone python package for *An Introduction to Modeling Neuronal Dynamics - Christoph Borgers*.
 
 
 
