@@ -25,7 +25,8 @@ Repositories of my papers:
 - [Kuramoto simulator](https://github.com/Ziaeemehr/Kuramoto_model)
 
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg">](https://www.researchgate.net/profile/Abolfazl-Ziaeemehr) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width=35>](https://www.linkedin.com/in/abolfazl-ziaee-mehr-a5888859/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg">](https://www.researchgate.net/profile/Abolfazl-Ziaeemehr) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width=35>](https://www.linkedin.com/in/abolfazl-z-a5888859/)
+
 
 <!--
 **Ziaeemehr/ziaeemehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
