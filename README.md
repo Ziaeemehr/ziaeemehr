@@ -6,6 +6,7 @@
   ![Github Stats By Mehmet](https://github-readme-stats-sigma-five.vercel.app/api?username=Ziaeemehr&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=9f9f9f)  
 </br>
 
+My [CV.](https://github.com/Ziaeemehr/ziaeemehr/blob/main/Ziaeemehr.pdf)
 
 Repositories of my papers:
 - [Frontiers 2021](https://github.com/Ziaeemehr/Frontiers2021)
