@@ -1,4 +1,4 @@
-
+## 👋 Welcome to My GitHub!
 
 I'm Abolfazl Ziaeemehr, deeply passionate about neural dynamics, complex systems, and simulations. As a computational neuroscientist, I specialize in developing Bayesian methods to study whole-brain network dynamics. I also have expertise in deep learning techniques, which I've applied to analyze EEG/MEG/fMRI data from both rats and humans. Below, you can explore my projects, research, and contributions.
 
