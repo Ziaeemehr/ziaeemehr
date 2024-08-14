@@ -1,9 +1,8 @@
 
 
-
-##### My GitHub Stats
 I'm Abolfazl Ziaeemehr, deeply passionate about neural dynamics, complex systems, and simulations. As a computational neuroscientist, I specialize in developing Bayesian methods to study whole-brain network dynamics. I also have expertise in deep learning techniques, which I've applied to analyze EEG/MEG/fMRI data from both rats and humans. Below, you can explore my projects, research, and contributions.
 
+##### My GitHub Stats
   ![Github Stats By Mehmet](https://github-readme-stats-sigma-five.vercel.app/api?username=Ziaeemehr&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=9f9f9f)  
 
 ---
